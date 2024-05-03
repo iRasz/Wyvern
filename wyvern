@@ -1041,4 +1041,4 @@ task.spawn(function()
         end
     end)
 end)"
- https://raw.githubusercontent.com/artemy133563/Utilities/main/WyvernV2#:~:text=local%20LOAD_TIME%20%3D%20tick,end%0A%20%20%20%20end)%0Aend)
+ https://raw.githubusercontent.com/iRasz/Wyvern/main/wyvern#:~:text=local%20LOAD_TIME%20%3D%20tick,end%0A%20%20%20%20end)%0Aend)
